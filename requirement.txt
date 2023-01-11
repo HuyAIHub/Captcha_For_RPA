@@ -1,0 +1,3 @@
+source /data/huydq46/RPA_Captcha_OCR/captcha_ocr_env/bin/activate
+conda deactivate
+uvicorn main:app --port 8000

@@ -1,0 +1,1 @@
+nohup uvicorn main:app --host 10.248.243.110 --port 1999 > logs.txt  2>&1 & echo $! > run.pid

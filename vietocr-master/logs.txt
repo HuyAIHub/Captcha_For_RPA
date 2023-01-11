@@ -1,0 +1,132 @@
+INFO:     Started server process [3154260]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://10.248.243.110:1999 (Press CTRL+C to quit)
+INFO:     10.248.248.14:65091 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.248.248.14:65091 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.207.112.64:54623 - "GET /docs HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60EE138FD0>
+INFO:     10.207.112.64:54623 - "GET /openapi.json HTTP/1.1" 200 OK
+text_predict: cy66g
+time: 0.2987995147705078
+INFO:     10.248.248.14:65099 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: fcm7f
+time: 0.2634620666503906
+INFO:     10.207.112.64:54841 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: xxpkp
+time: 0.2850165367126465
+INFO:     10.207.112.64:54853 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: a68r8
+time: 0.2681570053100586
+INFO:     10.207.112.64:54865 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: dwcwd
+time: 0.2696573734283447
+INFO:     10.207.112.64:54873 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: eaccc
+time: 0.25735926628112793
+INFO:     10.207.112.64:54885 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: e8fbe
+time: 0.2505185604095459
+INFO:     10.207.112.64:54892 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: nkx6x
+time: 0.2632730007171631
+INFO:     10.207.112.64:54900 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: 6dy75
+time: 0.2621335983276367
+INFO:     10.207.112.64:54910 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: 4pkgg
+time: 0.25559234619140625
+INFO:     10.207.112.64:54920 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: h2ee3
+time: 0.26129889488220215
+INFO:     10.207.112.64:54926 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: 8xmk8
+time: 0.2536194324493408
+INFO:     10.207.112.64:54936 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: 4dnyh
+time: 0.2565736770629883
+INFO:     10.207.112.64:54947 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: epb67
+time: 0.25243639945983887
+INFO:     10.207.112.64:54955 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: dcp2a
+time: 0.25451016426086426
+INFO:     10.207.112.64:54968 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.26274657249450684
+INFO:     10.207.112.64:55178 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.2668612003326416
+INFO:     10.207.112.64:55184 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.265927791595459
+INFO:     10.207.112.64:55189 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.2568824291229248
+INFO:     10.207.112.64:55196 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.2604560852050781
+INFO:     10.207.112.64:55844 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.25328755378723145
+INFO:     10.207.112.64:55850 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.2610585689544678
+INFO:     10.207.112.64:55857 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.2517566680908203
+INFO:     10.207.112.64:55863 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.25437021255493164
+INFO:     10.207.112.64:55869 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.260181188583374
+INFO:     10.207.112.64:55876 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.2579977512359619
+INFO:     10.207.112.64:55882 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.25667238235473633
+INFO:     10.207.112.64:55887 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.25045323371887207
+INFO:     10.207.112.64:55893 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.26888132095336914
+INFO:     10.207.112.64:55898 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.2518477439880371
+INFO:     10.207.112.64:55905 - "POST /upload HTTP/1.1" 200 OK
+img2: <PIL.Image.Image image mode=L size=130x50 at 0x7F60ED8B2FA0>
+text_predict: f5ny5
+time: 0.2507922649383545
+INFO:     10.207.112.64:55912 - "POST /upload HTTP/1.1" 200 OK
